@@ -96,3 +96,7 @@ Intel Xeon W
 ```
 Captura de pantalla de las especificaciones de la Mac
 ![image](img/img_MAC_specs.jpg)
+
+## Conclusiones
+En esta práctica, pude llevar acabo todo lo visto en la materia con respecto a docker y git, de esta manera pude llevarlo a la practica realizando una instalacion de moodle usando docker compose, ademas de hacer algunas configuraciones a docker para que funcionara mejor de acuerdo a las practicas realizadas, ademas de que con el moodle se hizo algunas configuraciones basicas como lo fue crear un curso, crear usuarios, gestionar usuarios en un curso, etc. 
+En esta practica se realizo lo basico sirvio para poder llevar en conjunto todo lo visto en la materia en una sola practica
